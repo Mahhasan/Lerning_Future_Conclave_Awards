@@ -1367,22 +1367,22 @@ a.edufair-btn-larg-round:hover:before {
 	transition: 0.3s all ease;
 }
 .edufair-single-features-1x{
-	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('images/university/course1.jpg');
+	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('../images/university/course1.jpg');
 }
 .edufair-single-features-2x{
-	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('images/university/course2.jpg');
+	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('../images/university/course2.jpg');
 }
 .edufair-single-features-3x{
-	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('images/university/course5.jpg');
+	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('../images/university/course5.jpg');
 }
 .edufair-single-features-4x{
-	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('images/university/course4.jpg');
+	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('../images/university/course4.jpg');
 }
 .edufair-single-features-5x{
-	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('images/university/course5.jpg');
+	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('../images/university/course5.jpg');
 }
 .edufair-single-features-6x{
-	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('images/university/course6.jpg');
+	background: linear-gradient(rgba(30, 166, 154, 0.9),rgba(30, 166, 154, 0.9)),url('../images/university/course6.jpg');
 }
 .edufair-single-features .media-left {
     display: block;
