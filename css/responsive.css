@@ -303,7 +303,8 @@
       font-size: 12px;
   }
   .edufair-caption h2{
-      font-size: 25px;
+      font-size: 20px;
+      line-height: 30px;
   }
   .online-course-2x .edufair-shop-1x .carousel-control, .online-course-1x .edufair-shop-1x .carousel-control, .online-course-2x .edufair-related-course-1x .carousel-control, .online-course-1x .edufair-related-course-1x .carousel-control, .single-course-1x .edufair-related-course-1x .carousel-control, .university-2x .edufair-shop-1x .carousel-control, .university-2x .university-course-1x .carousel-control, .university-1x .edufair-shop-1x .carousel-control, .university-1x .university-course-1x .carousel-control{
       margin-left: 71%;
