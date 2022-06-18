@@ -5521,3 +5521,22 @@ a.edufair-component-button:hover:before {
 	height: 100vh;
 	object-fit: cover;
 }
+
+/* Customize */
+.title-horizontal-line{
+	position: relative;
+    font-size: 30px;    
+    font-weight: 700;
+    color: #262626;
+	margin-bottom: 70px;
+}
+.title-horizontal-line::before {
+	content: "";
+	position: absolute;
+	left: 439px;
+	bottom: -20px;
+	width: 291px;
+	border-bottom: 3px solid #1EA69A;
+	transform: scaleX(1);
+	transition: all .3s ease-in-out;
+  }
