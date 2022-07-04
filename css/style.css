@@ -341,9 +341,9 @@ html {
 *:after { /* Inherit box-sizing to make it easier to change the property for components that leverage other behavior; see http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
 	box-sizing: inherit;
 }
-
-body {
-	background: #ffffff; /* Fallback for when there is no custom background color defined. */
+/* Fallback for when there is no custom background color defined. */
+/* body {
+	background: #ffffff; 
 	font-family: 'Roboto', sans-serif;
     font-size: 14px;
     line-height: 24px;
@@ -351,7 +351,17 @@ body {
     font-weight: 400;
     overflow-x: hidden!important;
     -webkit-font-smoothing: antialiased;
-}
+} */
+body {
+	background: #ffffff;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	line-height: 23px;
+	color: #5b5b5b;
+	font-weight: 400;
+	overflow-x: hidden!important;
+    -webkit-font-smoothing: antialiased;
+  }
 
 blockquote:before,
 blockquote:after,
